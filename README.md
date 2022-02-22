@@ -1,19 +1,9 @@
 
-![logo](/resources/tutelogo.png)
 
-## <div align="center">Tutorial 03</div>
 
-## Objectives : Learn to use Structures and Reference type parameters
 
-Use your Repl.IT account and use the Instructions provided by your Instructors to complete the Tutorial.  All instructions are in the Repl.IT classroom for the Tutorial Questions for Week 03. Please submit your solutions using Repl.IT itself.
-
-## Exercise 1 - Formatting
-
-Modify the program to produce the output given below (don't print the first two lines and the blank line).
-You have to use the following commands in the <iomanip> header file
-
-  ```c++
 #include <iostream>
+#include<iomanip>
 using namespace std;
 int main() {
    float marks[] = {78.4, 90.6, 45.9, 72.2, 54.4};
